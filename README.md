@@ -5,4 +5,4 @@
 
 Вы можете скачать полную версию моего резюме в формате PDF по ссылке ниже:
 
-**➡️ [Скачать резюме (PDF)](https://github.com/ВАШ_НИКНЕЙМ/ИМЯ_РЕПОЗИТОРИЯ/raw/main/ИМЯ_ВАШЕГО_ФАЙЛА.pdf)**
+**➡️ [Скачать резюме (PDF)](https://github.com/timur-python-dev/timur-python-dev/raw/main/Timur_python_developer.pdf)**
